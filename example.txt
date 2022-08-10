@@ -1,0 +1,12 @@
+# number of channels [1, 2]
+# sample rate {44100, 48000}
+# volume level [0%, 100%]
+# tempo [beats per minute]
+
+note
+note
+note
+.
+.
+.
+note
